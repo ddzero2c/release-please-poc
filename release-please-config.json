@@ -1,8 +1,10 @@
 {
   "bootstrap-sha": "8b2a302262d307882fb668796d36cfd3b4e2fc86",
-  "bump-minor-pre-major": true,
-  "bump-patch-for-minor-pre-major": true,
+  "group-pull-request-title-pattern": "chore: tag release note for ${branch}",
   "packages": {
+    ".": {
+      "package-name": "all",
+    },
     "api": {
       "package-name": "api",
       "release-type": "go"
