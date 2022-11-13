@@ -1,0 +1,15 @@
+{
+  "name": "release-please-poc",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ddzero2c/release-please-poc.git",
+  "author": "Ryder <ddzero2c@gmail.com>",
+  "packages": [
+    "api",
+    "web"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "yarn-changed-workspaces": "^2.0.11"
+  }
+}
