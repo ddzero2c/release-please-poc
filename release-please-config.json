@@ -3,7 +3,7 @@
   "group-pull-request-title-pattern": "chore: tag release note for ${branch}",
   "packages": {
     ".": {
-      "package-name": "all",
+      "package-name": "all"
     },
     "api": {
       "package-name": "api",
