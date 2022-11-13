@@ -3,7 +3,7 @@
   "plugins": [
     "node-workspace",
     "sentence-case"
-  ]
+  ],
   "packages": {
     "api": {
       "release-type": "go"
