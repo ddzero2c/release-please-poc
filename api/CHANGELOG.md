@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/ddzero2c/release-please-poc/compare/api-v1.0.0...api-v1.1.0) (2022-11-13)
+
+
+### Features
+
+* hello 2 ([7bbc040](https://github.com/ddzero2c/release-please-poc/commit/7bbc0407049a9ce6a4d61122656d6e713f3bbb20))
+
+
+### Bug Fixes
+
+* api hello ([6b7ad32](https://github.com/ddzero2c/release-please-poc/commit/6b7ad322f5b421be2fc5d8f4850b3bcce3e80ed3))
+
 ## 1.0.0 (2022-11-13)
 
 
