@@ -1,4 +1,9 @@
 {
+  "bootstrap-sha": "8b2a302262d307882fb668796d36cfd3b4e2fc86",
+  "plugins": [
+    "node-workspace",
+    "sentence-case"
+  ]
   "packages": {
     "api": {
       "release-type": "go"
