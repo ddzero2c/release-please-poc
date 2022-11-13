@@ -1,9 +1,9 @@
 {
   "bootstrap-sha": "8b2a302262d307882fb668796d36cfd3b4e2fc86",
-  "group-pull-request-title-pattern": "chore: tag release note for ${branch}",
+  "group-pull-request-title-pattern": "chore: tag release",
   "packages": {
     ".": {
-      "package-name": "all",
+      "package-name": "@full"
     },
     "api": {
       "package-name": "api",
