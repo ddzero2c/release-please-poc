@@ -1,6 +1,8 @@
 {
   "packages": {
-    "api": {},
+    "api": {
+      "release-type": "go",
+    },
     "web": {}
   }
 }
