@@ -4,9 +4,12 @@
     "node-workspace",
     "sentence-case"
   ],
+  "bump-minor-pre-major": true,
+  "bump-patch-for-minor-pre-major": true,
   "packages": {
     ".": {},
     "api": {
+      "package-name": "api",
       "release-type": "go"
     },
     "web": {}
