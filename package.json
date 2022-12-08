@@ -1,6 +1,6 @@
 {
   "name": "release-please-poc",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "repository": "git@github.com:ddzero2c/release-please-poc.git",
   "author": "Ryder <ddzero2c@gmail.com>",
   "license": "MIT"
