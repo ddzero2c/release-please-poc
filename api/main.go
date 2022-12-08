@@ -12,4 +12,5 @@ func main() {
 	fmt.Println("Hello! fix 7")
 	fmt.Println("Hello! fix 8")
 	fmt.Println("Hello! fix 9")
+	fmt.Println("Hello! fix 10")
 }
