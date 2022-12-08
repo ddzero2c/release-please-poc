@@ -2,7 +2,7 @@
   "bootstrap-sha": "fc96083d7d352b04857e1682f2e7fcdc98196950",
   "packages": {
     ".": {
-      "package-name": "*full"
+      "package-name": "full"
     },
     "api": {
       "package-name": "api",
